@@ -12,20 +12,20 @@ Will be posted
 
 # Basic
 
-- [] Design Overall Character Manager (Including CRUD)
-- [] Connect Node.js to EC2 (or Just Heroku)
-- [] Design Character Database Structure
-- [] Finish Setting MySQL
+- [ ] Design Overall Character Manager (Including CRUD)
+- [ ] Connect Node.js to EC2 (or Just Heroku)
+- [ ] Design Character Database Structure
+- [ ] Finish Setting MySQL
 
 # Client
 
-- [] Finish the basic format of the pages
+- [ ] Finish the basic format of the pages
 
 # Backend
 
-- [] Add data (Create)
-- [] Edit data (Update)
-- [] Remove data (Delete)
+- [ ] Add data (Create)
+- [ ] Edit data (Update)
+- [ ] Remove data (Delete)
 
 ---
 
